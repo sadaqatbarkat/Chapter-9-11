@@ -1,0 +1,113 @@
+h1 {
+	padding-left: 1.1rem;
+}
+
+table{
+	border: 1px solid black;
+	}
+
+th {
+
+	font-size: 1.5rem;
+	font-weight: lighter;
+}
+.one{
+
+	padding-right: 3rem;
+}
+.two{
+	padding-right: 6rem;
+}
+.three{
+	padding-right: 4rem;
+
+}
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.total{
+	position: relative;
+	right: 4.8rem;
+}
+.remark{
+	position: relative;
+	right:  4rem;
+
+}
+#level{
+	position: relative;
+	right: 7rem;
+}
+#per{
+	position: relative;
+	right: 2rem;
+}
+.total{
+	position: relative;
+	right: 4.5rem;
+}
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+#total{
+	padding-left: 0.8rem;
+}
+
+.one70{
+	padding-right: 2.4rem;
+}
+.remark70{
+	padding-right: 3.8rem;
+}
+.per70{
+	padding-right: 2.8rem;
+}
+.grade70{
+	padding-right: 5.4rem;
+}
+.percen{
+	position: relative;
+	right: 3.1rem;
+}
+.total70{
+	position: relative;
+	right: 3.1rem;
+}
+.good{
+	position: relative;
+	right: 6.2rem;
+} 
+.best{
+	position: relative;
+	right: 4rem;
+}
+.obt{
+	position: relative;
+	right:0.7rem;
+}
+.eleven{
+	position: relative;
+	right: 7.3rem;
+}
+.twelve{
+	position: relative;
+	right: 5.5rem;
+}
+.thirteen{
+	position: relative;
+	right: 7.2rem;
+}
+.fourteen{
+	position: relative;
+	right: 11.5rem;
+}
+.fifteen{
+	position: relative;
+	right:4.3rem;
+}
